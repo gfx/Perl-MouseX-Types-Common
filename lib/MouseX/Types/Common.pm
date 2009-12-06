@@ -1,5 +1,6 @@
 package MouseX::Types::Common;
 
+use 5.006_002;
 use strict;
 use warnings;
 
