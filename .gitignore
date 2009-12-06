@@ -1,0 +1,12 @@
+META.yml
+Makefile
+blib/*
+inc/*
+*.sw[po]
+pm_to_blib
+MANIFEST
+MANIFEST.bak
+MouseX-Types-Common-*
+*~
+*.bak
+*.old
